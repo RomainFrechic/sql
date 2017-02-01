@@ -1,0 +1,12 @@
+{
+    "name": "root/sql",
+    "authors": [
+        {
+            "name": "Romain",
+            "email": "RomainFrechic@outlook.fr"
+        }
+    ],
+    "require": {
+        "j4mie/idiorm": "^1.5"
+    }
+}
